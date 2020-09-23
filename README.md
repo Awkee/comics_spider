@@ -1,4 +1,5 @@
 # 漫画爬虫工具
+![](https://visitor-badge.glitch.me/badge?page_id=learnhard-cn.comics_spider)
 
 支持功能：
 1. 根据配置URL地址，自动爬取章节漫画图片(解析JS数据获取ImageURL)
